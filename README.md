@@ -1,2 +1,3 @@
 # ALPHAS-WORLD
-THIS IS MY 1ST REPOSITORY
+THIS IS MY web-devlopment class
+
